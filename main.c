@@ -20,6 +20,10 @@ int sum(int a, int b)
 {
     return (a + b);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7cb427c2396b8dd51f832e64030b9f11481d0731
 int main(int argc, char const *argv[])
 {
     printf("test github");
